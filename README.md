@@ -1,3 +1,3 @@
 <html>
-<h1>Welcome to my git hub</h1>
+<h1>Welcome to my Git Hub!</h1>
   </html>
