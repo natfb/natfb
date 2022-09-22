@@ -17,17 +17,15 @@
     <h1>Welcome to my Git Hub width: "200px"</h1>
     
         <img id="sci" src="101674-science-lover.gif"></img>
-   
-    <!--<div id="dimg2">
         <img id="cod" src="63487-programming-computer.gif"></img>
-    </div>-->
     
     
-        &#128400 Hey I'm Natalia<br><br> 
-        &#9995 Currently studyind Computer Engineering at UFSC<br><br>
-        &#127776 Passionated about science<br><br>
-        &#128218 Love books<br><br>
-        &#x270d Always learning<br><br>
-        &#x1f4bb I'm a begginer at coding and gonna be posting my progress here<br><br>
+    
+        Hey I'm Natalia<br><br> 
+        Currently studyind Computer Engineering at UFSC<br><br>
+        Passionated about science<br><br>
+        Love books<br><br>
+        Always learning<br><br>
+        I'm a begginer at coding and gonna be posting my progress here<br><br>
 </body>
 </html>
