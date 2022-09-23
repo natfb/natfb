@@ -15,10 +15,10 @@
 
 <body>
     <h1 id="titulo">Welcome to my Git Hub</h1>
-        <img align='left' src="101674-science-lover.gif"></img>
+        <img align='left' src="101674-science-lover.gif" width='200'></img>
    
    
-        <img src="63487-programming-computer.gif" width= '250'></img>
+        <img src="63487-programming-computer.gif"></img>
    
     
         Hey I'm Natalia
