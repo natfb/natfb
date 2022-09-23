@@ -21,7 +21,7 @@
         <img align='left' src="101674-science-lover.gif" width= '200'></img>
         <img align='right' src="63487-programming-computer.gif" width= '200'></img>
         </p>
-         <p>👋Hey I'm Natalia
+         <p align='center'>👋Hey I'm Natalia
             🎓Currently studyind Computer Engineering at UFSC
             🔭Passionated about science
             📚Love books
