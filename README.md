@@ -18,7 +18,7 @@
         <img align='left' src="101674-science-lover.gif" width='200'></img>
    
    
-        <img src="63487-programming-computer.gif"></img>
+        <img src="(https://github.com/natfb/natfb/blob/main/63487-programming-computer.gif)"></img>
    
     
         Hey I'm Natalia
