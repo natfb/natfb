@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -21,14 +21,14 @@
         <img align='left' src="101674-science-lover.gif" width= '200'></img>
         <img align='right' src="63487-programming-computer.gif" width= '200'></img>
         </p>
-         <p align='center'>👋Hey I'm Natalia
+        <!-- <p align='center'>👋Hey I'm Natalia
             🎓Currently studyind Computer Engineering at UFSC
             🔭Passionated about science
             📚Love books
             ✍️Always learning
             👩🏼‍💻I'm a begginer at coding and gonna be posting my progress here
-         </p>    
+         </p>  -->  
 
 
 </body>
-</html>
+
