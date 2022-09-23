@@ -11,25 +11,22 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Quicksand:wght@300&display=swap" rel="stylesheet">
-        <title>mygithub</title>
     </head>
 
 <body>
     <h1 id="titulo">Welcome to my Git Hub</h1>
-    <div id="dimg1">
-        <img id="sci" src="101674-science-lover.gif"></img>
-    </div>
-    <!--<div id="dimg2">
-        <img id="cod" src="63487-programming-computer.gif"></img>
-    </div>-->
+        <img align='left' src="101674-science-lover.gif" width= '200'></img>
+   
+   
+        <img align='right' src="63487-programming-computer.gif" width= '250'></img>
+   
     
-    <div id="texto">
-        &#128400 Hey I'm Natalia<br><br> 
-        &#9995 Currently studyind Computer Engineering at UFSC<br><br>
-        &#127776 Passionated about science<br><br>
-        &#128218 Love books<br><br>
-        &#x270d Always learning<br><br>
-        &#x1f4bb I'm a begginer at coding and gonna be posting my progress here<br><br>
-    </div>
+        Hey I'm Natalia<br><br> 
+        Currently studyind Computer Engineering at UFSC<br><br>
+        Passionated about science<br><br>
+        Love books<br><br>
+        Always learning<br><br>
+        I'm a begginer at coding and gonna be posting my progress here<br><br>
+
 </body>
 </html>
