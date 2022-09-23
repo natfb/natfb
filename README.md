@@ -1,7 +1,7 @@
 <h1 align='center'>Welcome to my Git Hub</h1>
-<img align="right" src="63487-programming-computer.gif" width='200'></img>
+<img align="right" src="63487-programming-computer.gif"width='200'></img>
 <img align="left" src="101674-science-lover.gif" width='200'></img>
-         <p style="font-size:100px;">
+         <p>
             👋 Hey I'm Natalia<br> 
             🎓 Currently studyind Computer Engineering at UFSC<br>
             🔭 Passionated about science<br>
