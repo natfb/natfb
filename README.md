@@ -18,15 +18,15 @@
         <img align='left' src="101674-science-lover.gif" width= '200'></img>
    
    
-        <img align='right' src="63487-programming-computer.gif" width= '250'></img>
+        <img src="63487-programming-computer.gif" width= '250'></img>
    
     
-        Hey I'm Natalia<br><br> 
-        Currently studyind Computer Engineering at UFSC<br><br>
-        Passionated about science<br><br>
-        Love books<br><br>
-        Always learning<br><br>
-        I'm a begginer at coding and gonna be posting my progress here<br><br>
+        Hey I'm Natalia
+        Currently studyind Computer Engineering at UFSC
+        Passionated about science
+        Love books
+        Always learning
+        I'm a begginer at coding and gonna be posting my progress here
 
 </body>
 </html>
