@@ -15,16 +15,19 @@
 
 <body>
     <h1 id="titulo">Welcome to my Git Hub</h1>
-        <!--<img align='left' src="101674-science-lover.gif" width= '200'></img>-->
+        <p align='center'>
+        <img align='left' src="101674-science-lover.gif" width= '200'></img>
         <img align='right' src="63487-programming-computer.gif" width= '250'></img>
-   
+        </p>
     
-        Hey I'm Natalia<br><br> 
-        Currently studyind Computer Engineering at UFSC<br><br>
-        Passionated about science<br><br>
-        Love books<br><br>
-        Always learning<br><br>
-        I'm a begginer at coding and gonna be posting my progress here<br><br>
+        <p>
+        👋Hey I'm Natalia
+        🎓Currently studyind Computer Engineering at UFSC
+        🔭Passionated about science
+        📚Love books
+        ✍️Always learning
+        👩🏼‍💻I'm a begginer at coding and gonna be posting my progress here
+        </p>
 
 </body>
 </html>
