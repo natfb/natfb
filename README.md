@@ -1,16 +1,17 @@
 
 <h1 align='center'> Welcome to my Git Hub</h1><br>
-<img align="left" src="63487-programming-computer.gif"width='200'></img><br>
+<img align="left" src="animation_500_l8gn70d6.gif" width='200'></img><br>
+<img align="right" src="animation_500_l8gn70d6.gif" width='200'></img><br>
          <p align="center">
-           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=40&duration=3500&pause=1000&color=37BCAD&background=E9E9E900&width=471&height=72&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey!+I'm+Natalia;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Beginner+at+Front-End+;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Currently+learning+C;%F0%9F%8C%A0+Love+Science" alt="Typing SVG" /></a>
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=40&duration=3500&pause=1000&color=37BCAD&background=E9E9E900&width=471&height=72&lines=%F0%9F%91%8B%F0%9F%8F%BB%F0%9F%91%8B%F0%9F%8F%BB++Hey!+I'm+Natalia;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Beginner+at+Front-End+;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Currently+learning+C;%F0%9F%8C%A0+Love+Science" alt="Typing SVG" /></a>
-         </p><br><br><br><br><br><br>
+           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=40&duration=3500&pause=1000&center=true&color=37BCAD&background=E9E9E900&width=500&height=72&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey!+I'm+Natalia;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Beginner+at+Front-End+;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Currently+learning+C;%F0%9F%8C%A0+Love+Science" align='center' alt="Typing SVG" /></a>
+         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&center=true&width=435&lines=%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%A0%F0%9F%8C%A0%F0%9F%8C%A0%F0%9F%8C%A0%F0%9F%8C%A0%F0%9F%8C%A0%F0%9F%8C%A0%F0%9F%8C%A0" alt="Typing SVG" /></a>
+         </p><br><br><br><br>
 
     
 <div align="center">
   <a href="https://github.com/natfb">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natfb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfb&layout=compact&langs_count=7&theme=tokyonight"</div><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfb&layout=compact&langs_count=7&theme=tokyonight"</div><br><br>
 
         
  <div align = 'center' style="display: inline_block">
