@@ -1,4 +1,10 @@
 
+<center>
+https://user-images.githubusercontent.com/73670894/192163588-430ab0c1-9033-42e4-b961-04ecdbb9bc2a.mp4 
+</center>
+
+
+<html>
 <h1 align='center'> Welcome to my Git Hub</h1>
 <img align="left" src="animation_500_l8gn70d6.gif" width='150'></img><br>
 <img align="right" src="animation_500_l8gn70d6.gif" width='150'></img><br>
@@ -24,14 +30,14 @@
 <div align = 'center' style="display: inline_block">
          <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img>
          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>
-</div>
-    <video width="320" height="240" controls>
-        <source src="letras-matrix-matrix.mp4" type="video/mp4">
-        <source src="movie.ogg" type="video/ogg">
-      Your browser does not support the video tag.
-      </video>
+</div><br><br>
+</html> 
 
 
 
  
+
+https://user-images.githubusercontent.com/73670894/192163588-430ab0c1-9033-42e4-b961-04ecdbb9bc2a.mp4
+
+
 
