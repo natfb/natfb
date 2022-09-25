@@ -3,14 +3,14 @@
 <img align="left" src="animation_500_l8gn70d6.gif" width='200'></img><br>
 <img align="right" src="animation_500_l8gn70d6.gif" width='200'></img><br>
          <p align="center">
-           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=35&duration=3500&pause=1000&center=true&color=37BCAD&background=E9E9E900&width=355&height=72&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey!+I'm+Natalia+%F0%9F%91%8B%F0%9F%8F%BB;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Beginner+at+Front-End+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Currently+learning+C+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%A0+Love+Science+%F0%9F%8C%A0" align='center' alt="Typing SVG" /></a>
+           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=20&duration=3500&pause=1000&center=true&color=37BCAD&background=E9E9E900&width=355&height=72&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey!+I'm+Natalia+%F0%9F%91%8B%F0%9F%8F%BB;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Beginner+at+Front-End+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Currently+learning+C+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%A0+Love+Science+%F0%9F%8C%A0" align='center' alt="Typing SVG" /></a>
          </p><br><br><br><br>
 
     
 <div align="center">
   <a href="https://github.com/natfb">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natfb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfb&layout=compact&langs_count=7&theme=tokyonight"</div><br><br>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=natfb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfb&layout=compact&langs_count=7&theme=tokyonight"</div><br><br>
 
         
  <div align = 'center' style="display: inline_block">
