@@ -1,7 +1,7 @@
 
-<h1 align='center'> Welcome to my Git Hub</h1><br>
-<img align="left" src="animation_500_l8gn70d6.gif" width='200'></img><br>
-<img align="right" src="animation_500_l8gn70d6.gif" width='200'></img><br>
+<h1 align='center'> Welcome to my Git Hub</h1>
+<img align="left" src="animation_500_l8gn70d6.gif" width='150'></img><br>
+<img align="right" src="animation_500_l8gn70d6.gif" width='150'></img><br>
          <p align="center">
            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=20&duration=3500&pause=1000&center=true&color=37BCAD&background=E9E9E900&width=355&height=72&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey!+I'm+Natalia+%F0%9F%91%8B%F0%9F%8F%BB;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Beginner+at+Front-End+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Currently+learning+C+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%A0+Love+Science+%F0%9F%8C%A0" align='center' alt="Typing SVG" /></a>
          </p><br><br><br><br>
