@@ -25,7 +25,7 @@
 
 <div align = 'center' style="display: inline_block">
          <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img>
-         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>
+         <a href="https://www.instagram.com/nataliafarias__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 </div><br><br>
 </html> 
 
